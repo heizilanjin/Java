@@ -22,7 +22,7 @@
               height: 100px;
 
               position: relative;
-              top:50px;
+              top:52px;
               left:100px;
           }
           div{
